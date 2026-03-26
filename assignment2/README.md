@@ -1,7 +1,7 @@
 # Assignment 2 - Advanced Algorithm Design Paradigms
 
 **Course:** Analysis and Design of Algorithms Lab (ENCS256)
-**Semester:** IV | **Program:** BTech | **Session:** 2025-26
+**Semester:** IV | **Program:** BTech CSE Cyber Security | **Session:** 2025-26
 **Department:** SOET – KR Mangalam University
 **Faculty:** Dr. Rupendra Hada
 
